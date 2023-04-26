@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Blazor and WinForms
+- 🌱 I’m currently learning Tarojs
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I adopted a 1-month old street cat cuz she followed me back home 💕
+
+[![Sylvia's github stats](https://github-readme-stats.vercel.app/api?username=sylhuang&theme=dark)](https://github.com/sylhuang/github-readme-stats)
+
 <!--
 **sylhuang/sylhuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
