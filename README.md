@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Blazor and WinForms
-- 🌱 I’m currently learning Tarojs
+- 🔭 I’m currently working on Blazor and Playwright
+- 🌱 I’m currently learning Clean Architecture
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I adopted a 1-month old street cat cuz she followed me back home 💕
+- ⚡ Fun fact: I work hard so my cat has a better life 🐱
 
 [![Sylvia's github stats](https://github-readme-stats.vercel.app/api?username=sylhuang&theme=dark)](https://github.com/sylhuang/github-readme-stats)
 
